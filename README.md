@@ -4,7 +4,7 @@ A point cloud renderer using splatting method.
 ---
 ### Build Instructions (Windows)
 
-1. Make sure you have Python installed.
+1. Make sure you have installed `Python` and `CMake`.
 
 2. Install `poetry`
 ```shell
