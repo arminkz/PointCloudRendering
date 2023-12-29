@@ -1,0 +1,15 @@
+[requires]
+fmt/10.0.0
+spdlog/1.11.0
+glfw/3.3.3
+glew/2.2.0
+glm/cci.20230113
+imgui/1.90
+implot/0.16
+tinyply/2.3.4
+lodepng/cci.20230410
+
+
+[generators]
+CMakeDeps
+CMakeToolchain
